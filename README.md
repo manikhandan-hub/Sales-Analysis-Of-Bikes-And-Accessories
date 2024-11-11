@@ -16,3 +16,4 @@
 #### This shift indicates growth in adult customer engagement, suggesting opportunities for targeted marketing.
 #### Presented findings in a user-friendly, two-page PDF format for effective executive communication, emphasizing year-over-year growth trends and actionable insights.
 #### Leveraged Power BI features, including cards, bar charts, pie charts, and line charts, to create a visually compelling and data-driven report that helped stakeholders make informed decisions on profit improvement strategies and customer targeting.
+#### Actions: Power BI, Data Visualization, Profit Analysis, Revenue Segmentation, KPI Tracking, Customer Demographics, Year-over-Year Comparison, PDF Report Generation, Business Intelligence (BI)

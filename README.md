@@ -13,4 +13,4 @@
 #### In 2016, Bikes emerged as a new profitable category, contributing 26%, while Accessories contributed 52.47% and Clothing contributed 21.53%, demonstrating successful product diversification.
 ### Examined Revenue by Customer Category using segmentation:
 #### Identified the Adult category as the largest revenue contributor (64.48% in 2015 and 73.86% in 2016), followed by Youth (31.44% in 2015, 22.22% in 2016) and Students (2.07% in 2015, 2.57% in 2016).
-T#### his shift indicates growth in adult customer engagement, suggesting opportunities for targeted marketing.
+#### This shift indicates growth in adult customer engagement, suggesting opportunities for targeted marketing.

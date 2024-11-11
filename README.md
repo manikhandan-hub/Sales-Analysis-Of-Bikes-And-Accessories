@@ -14,3 +14,5 @@
 ### Examined Revenue by Customer Category using segmentation:
 #### Identified the Adult category as the largest revenue contributor (64.48% in 2015 and 73.86% in 2016), followed by Youth (31.44% in 2015, 22.22% in 2016) and Students (2.07% in 2015, 2.57% in 2016).
 #### This shift indicates growth in adult customer engagement, suggesting opportunities for targeted marketing.
+#### Presented findings in a user-friendly, two-page PDF format for effective executive communication, emphasizing year-over-year growth trends and actionable insights.
+#### Leveraged Power BI features, including cards, bar charts, pie charts, and line charts, to create a visually compelling and data-driven report that helped stakeholders make informed decisions on profit improvement strategies and customer targeting.
